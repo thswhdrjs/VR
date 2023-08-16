@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Fun_Lobby.unity
+    guid: 83f28fc24476eca4593dd80a0ba2da0b
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 09da2e52052138a4ab6419fef6554da9,
+      type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 62d36e79b65efbc4c89226bfb43b4329,
+      type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 7af26a5f90d977d439705fff8f310655,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a9d1b02bde76bf1469c80eba114208af,
+      type: 2}
